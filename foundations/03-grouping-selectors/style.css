@@ -1,0 +1,14 @@
+.felement{
+    background-color: black;
+    color: white;
+}
+
+.fontandsize{
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.selement{
+    background-color: yellow;
+    color: black;
+}

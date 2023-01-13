@@ -1,0 +1,19 @@
+.fclass{
+   background-color: #d87093;
+   font-family: verdana, "DejaVu sans", sans-serif;
+
+}
+
+#idnum1{
+    font-size: 36px;
+    color: #0000ff;
+}
+
+.sclass{
+    font-size: 24px;
+}
+
+#idnum2{
+    background-color: hsl(90, 100%, 50%);
+    font-weight: bold;
+}
